@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://makabakalalala.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-18T15:23:05.589Z</updated>
+    <title>玛卡巴卡</title>
+    <updated>2021-01-18T15:30:53.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://makabakalalala.github.io"/>
     <link rel="self" href="https://makabakalalala.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>你好啊啊啊啊啊
+</subtitle>
     <logo>https://makabakalalala.github.io/images/avatar.png</logo>
     <icon>https://makabakalalala.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 玛卡巴卡</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://makabakalalala.github.io/post/hello-gridea/</id>
