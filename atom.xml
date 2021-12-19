@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://makabakalalala.github.io</id>
     <title>陈达课题组</title>
-    <updated>2021-12-19T11:33:05.979Z</updated>
+    <updated>2021-12-19T13:44:43.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://makabakalalala.github.io"/>
     <link rel="self" href="https://makabakalalala.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 陈达课题组</rights>
     <entry>
         <title type="html"><![CDATA[第三篇文章]]></title>
-        <id>https://makabakalalala.github.io/post/di-san-pian-wen-zhang/</id>
-        <link href="https://makabakalalala.github.io/post/di-san-pian-wen-zhang/">
+        <id>https://makabakalalala.github.io/post/di-san-pian-wen-zhang</id>
+        <link href="https://makabakalalala.github.io/post/di-san-pian-wen-zhang">
         </link>
         <updated>2021-12-16T13:12:11.000Z</updated>
         <content type="html"><![CDATA[<p>123</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://makabakalalala.github.io/post/hello-gridea/</id>
-        <link href="https://makabakalalala.github.io/post/hello-gridea/">
+        <id>https://makabakalalala.github.io/post/hello-gridea</id>
+        <link href="https://makabakalalala.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
