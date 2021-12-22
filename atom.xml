@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://makabakalalala.github.io</id>
-    <title>陈达课题组</title>
-    <updated>2021-12-22T06:27:46.884Z</updated>
+    <title>Da Chen Group</title>
+    <updated>2021-12-22T07:27:12.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://makabakalalala.github.io"/>
     <link rel="self" href="https://makabakalalala.github.io/atom.xml"/>
-    <subtitle>Welcome to join us！</subtitle>
+    <subtitle>&lt;html&gt;
+&lt;body&gt;
+  &lt;em&gt;&lt;font size=&quot;5&quot;&gt;Welcome to join us&lt;/font&gt;&lt;/em&gt;&lt;br /&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</subtitle>
     <logo>https://makabakalalala.github.io/images/avatar.png</logo>
     <icon>https://makabakalalala.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 陈达课题组</rights>
+    <rights>All rights reserved 2021, Da Chen Group</rights>
     <entry>
         <title type="html"><![CDATA[第三篇文章]]></title>
         <id>https://makabakalalala.github.io/post/di-san-pian-wen-zhang</id>
