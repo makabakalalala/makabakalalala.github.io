@@ -774,3 +774,21 @@ a {
         background: #d0ebff;
       }
     
+      body {
+    font-size: 27px;
+}
+.content-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 48px 32px;
+}
+.post-detail {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.sidebar .top-container .site-title {
+    font-size: 30px;
+
+}
+
+    
